@@ -1,4 +1,4 @@
-`First add some files to the project 
+First add some files to the project 
    1. Dockerfile
    2. setting.xml
    3. .gitignore 
@@ -34,7 +34,7 @@ then start to push the code to Git or bitbucket
   ==> git log
   
 8. To push data to branch 
-  ==> git push origin <branchname>`
+  ==> git push origin <branchname>
    
   
    
