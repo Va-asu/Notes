@@ -1,0 +1,41 @@
+First add some files to the project 
+   1. Dockerfile
+   2. setting.xml
+   3. .gitignore 
+   4. build.sh
+   
+then start to push the code to Git or bitbucket
+
+1. Initialize the git to the project
+  ==> git init 
+   
+2. Add the origin
+  ==> git remote add origin <URL of repo>
+   
+3. Set url to origin
+  ==> git remote add origin <URL of repo>
+   
+4. Fetch the origin 
+  ==> git fetch origin 
+  
+5. Switch to another branch (optional)
+  ==> git checkout <branch name>
+  
+6. Add all the file to git
+  ==> git add . 
+    
+   to check the status use 
+  ==> git status 
+
+7. Commit to the branch
+  ==> git commit -m <commit msg>
+  
+   to check all commits use 
+  ==> git log
+  
+8. To push data to branch 
+  ==> git push origin <branchname>
+   
+  
+   
+   
